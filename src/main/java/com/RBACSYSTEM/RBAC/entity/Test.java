@@ -1,6 +1,5 @@
 package com.RBACSYSTEM.RBAC.entity;
 
-
 public class Test {
     int id;
     String name;
